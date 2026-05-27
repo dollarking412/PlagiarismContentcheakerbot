@@ -1,0 +1,13 @@
+{
+  "name": "plagiarism-guard-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for plagiarism checking",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "dotenv": "^16.3.1"
+  }
+}
